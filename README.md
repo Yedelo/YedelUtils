@@ -1,4 +1,7 @@
 # YedelUtils
+
+ChatTriggers website: https://www.chattriggers.com/modules/v/YedelUtils
+
 Module mainly focused on Hypixel with some cool features for improving the game. 
 
 Discord: yedel
