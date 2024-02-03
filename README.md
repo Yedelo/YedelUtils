@@ -1,5 +1,5 @@
 # YedelUtils
-Module mainly focused on Hypixel with some cool features for improving the game. Currently only for 1.8.9 and 1.12.2 (CT 2.2) but likely being ported to modern versions (CT 3.0) in the future.
+Module mainly focused on Hypixel with some cool features for improving the game. 
 
 Discord: yedel
 
