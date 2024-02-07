@@ -1,8 +1,0 @@
-{
-  "name": "YedelUtils",
-  "creator": "Yedel",
-  "description": "Yedels", 
-  "version": "2.2.0",
-  "entry": "index.js",
-  "requires": ["PogData", "PromiseV2", "Vigilance"]
-                                                    }
