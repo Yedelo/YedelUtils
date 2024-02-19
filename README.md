@@ -57,3 +57,8 @@ Discord: yedel
 ![bz search](https://cdn.discordapp.com/attachments/975036352062173275/1191190910403346473/image.png?ex=65a489fc&is=659214fc&hm=b1e41a799303204d8aefde58ec398603c9f12b0774bac934dcdff15ef95148d2&)
 ![bz search failed](https://cdn.discordapp.com/attachments/975036352062173275/1191191161436635196/image.png?ex=65a48a38&is=65921538&hm=60cd133b0563be8baa3c9117cd3a50bc747cb005d937de83c7034012c57234c1&)
 ![no cookie search](https://cdn.discordapp.com/attachments/975036352062173275/1191191831132778496/image.png?ex=65a48ad7&is=659215d7&hm=1c633765b1d1be0a89d8ed94d82f0814694ea5564243fce1725d811696cfbdf6&)
+
+
+**Limbo creative mode (toggleable)**: Sets your gamemode to creative in limbo. Use /lgmc if the check fails
+
+![limbo creative mode](https://cdn.discordapp.com/attachments/975036352062173275/1202410492618874900/image.png?ex=65dfd009&is=65cd5b09&hm=27b330c4f2d6186f19fbfe1340e846f0b838fe12de9054685ecd4c7c627e1a55&)
