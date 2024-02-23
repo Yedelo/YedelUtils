@@ -1,0 +1,1 @@
+register('chat', () => ChatLib.command('yedellimbocreative', true)).setCriteria('You were spawned in Limbo.') // Auto limbo creative
