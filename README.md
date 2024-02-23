@@ -6,7 +6,7 @@ Module mainly focused on Hypixel with some cool features for improving the game.
 
 Discord: yedel
 
-
+Use /yedel to open the main GUI.
 
 ## Features
 
