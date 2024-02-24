@@ -85,6 +85,14 @@ Sets your gamemode to creative in limbo. Use /lgmc if the check fails
 
 </details>
 
+<details><summary>Easy atlas verdicts</summary>
+
+Adds keybinds for Atlas that automatically click on the two verdicts. Use at your own risk
+
+![atlas verdict](https://cdn.discordapp.com/attachments/975036352062173275/1211033969517137920/image.png?ex=65ecba46&is=65da4546&hm=daeee824b1444dbbbca4d749f2d91e2411cf1ab9ec5ac36918d527cd8e2db9e0&)
+
+</details>
+
 ## **Commands:**
 
 
