@@ -98,7 +98,7 @@ Simple command that shows all formatting codes
 
 <details><summary>/settext</summary>
 
-Adds custom text to the screen, position customizable with /movetext. Use /cleartext to remove.
+- Adds custom text to the screen, supports new lines with \n. Use /movetext to change the position and /cleartext to remove.
 
 ![settext image](https://cdn.discordapp.com/attachments/975036352062173275/1191182117737082880/image.png?ex=65a481cb&is=65920ccb&hm=0672ff165e84a2563b498cb3cd1ecdef7058570fdea09730e9b30ac4151c8a9b&)
 
