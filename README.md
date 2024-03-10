@@ -74,7 +74,15 @@ Adds keybinds for Atlas that automatically click on the two verdicts. Use at you
 
 </details>
 
+<details><summary>Book background</summary>
 
+Draws the default gray background in book GUIs
+
+![book background](https://github.com/Yedelo/YedelUtils/assets/158670400/1e1ecc3e-f1de-404b-8d40-c94ccf76279e)
+  
+</details>
+
+---
 
 <details><summary>TNT Tag bounty hunting</summary>
 
