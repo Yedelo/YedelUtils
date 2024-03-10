@@ -66,6 +66,14 @@ Sets your gamemode to creative in limbo. Use /lgmc if the check fails
 
 </details>
 
+<details><summary>Easy atlas verdicts</summary>
+
+Adds keybinds for Atlas that automatically click on the two verdicts. Use at your own risk
+
+![image](https://github.com/Yedelo/YedelUtils/assets/158670400/71924033-62c0-4b33-88db-0a753378eb61)
+
+</details>
+
 
 
 <details><summary>TNT Tag bounty hunting</summary>
