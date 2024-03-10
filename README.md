@@ -34,11 +34,11 @@ Shows if a player has strength on their nametag.
 
 </details>
 
-<details><summary>TNT Tag bounty hunting</summary>
+<details><summary>Easy atlas verdicts</summary>
 
-This feature is complicated, if you're interested in it check out [my video.](https://www.youtube.com/watch?v=-z_AZR35ozI)
+Adds keybinds for Atlas that automatically click on the two verdicts. Use at your own risk
 
-![image](https://github.com/Yedelo/YedelUtils/assets/158670400/e417a29f-820a-4b64-a619-28b7b1874e4b)
+![image](https://github.com/Yedelo/YedelUtils/assets/158670400/71924033-62c0-4b33-88db-0a753378eb61)
 
 </details>
 
@@ -47,6 +47,32 @@ This feature is complicated, if you're interested in it check out [my video.](ht
 AutoGG for dropper with customizable delay, will be removed when a trigger for Dropper is added to AutoGG
 
 ![image](https://github.com/Yedelo/YedelUtils/assets/158670400/61911e89-6837-4fcd-99b3-18fe3b4c8156)
+
+</details>
+
+<details><summary>Kuudra sacrifice display</summary>
+
+Shows how many coins you need to donate to the Kuudra Believer for the Kuudra Follower Helmet.
+
+![image](https://github.com/Yedelo/YedelUtils/assets/158670400/f4bd934d-a4a9-439e-9bd3-8ebe52c744a7)
+
+</details>
+
+<details><summary>Limbo creative mode</summary>
+
+Sets your gamemode to creative in limbo. Use /lgmc if the check fails
+
+![image](https://github.com/Yedelo/YedelUtils/assets/158670400/a3715c75-dae5-4d69-99d8-d0155ec45906)
+
+</details>
+
+
+
+<details><summary>TNT Tag bounty hunting</summary>
+
+This feature is complicated, if you're interested in it check out [my video.](https://www.youtube.com/watch?v=-z_AZR35ozI)
+
+![image](https://github.com/Yedelo/YedelUtils/assets/158670400/e417a29f-820a-4b64-a619-28b7b1874e4b)
 
 </details>
 
@@ -69,29 +95,11 @@ AH/BZ search your currently held item with keybinds, bound to K and L by default
 
 </details>
 
-<details><summary>Sacrifice display</summary>
 
-Shows how many coins you need to donate to the Kuudra Believer for the Kuudra Follower Helmet.
 
-![image](https://github.com/Yedelo/YedelUtils/assets/158670400/f4bd934d-a4a9-439e-9bd3-8ebe52c744a7)
 
-</details>
 
-<details><summary>Limbo creative mode</summary>
 
-Sets your gamemode to creative in limbo. Use /lgmc if the check fails
-
-![image](https://github.com/Yedelo/YedelUtils/assets/158670400/a3715c75-dae5-4d69-99d8-d0155ec45906)
-
-</details>
-
-<details><summary>Easy atlas verdicts</summary>
-
-Adds keybinds for Atlas that automatically click on the two verdicts. Use at your own risk
-
-![image](https://github.com/Yedelo/YedelUtils/assets/158670400/71924033-62c0-4b33-88db-0a753378eb61)
-
-</details>
 
 ## **Commands:**
 
