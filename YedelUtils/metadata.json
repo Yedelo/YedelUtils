@@ -1,0 +1,8 @@
+{
+  "name": "YedelUtils",
+  "creator": "Yedel",
+  "description": "Module mainly focused on Hypixel with some features for improving the game.", 
+  "version": "2.4.5",
+  "entry": "index.js",
+  "requires": ["PogData", "Vigilance"]
+                                       } 

@@ -1,0 +1,5 @@
+2.4.5
+
+* Removed register/unregister in hypixel says helper
+* Added this
+* Replaced obfuscated fields/methods with soopy-styled mappings (more info in utils/mappings.js)
